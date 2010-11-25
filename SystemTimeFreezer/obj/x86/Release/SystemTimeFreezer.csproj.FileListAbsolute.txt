@@ -18,3 +18,13 @@ D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\
 D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.Properties.Resources.resources
 D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.read.1.tlog
 D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.write.1.tlog
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe.config
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.exe
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.pdb
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.pdb
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.MainForm.resources
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.Properties.Resources.resources
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.read.1.tlog
+d:\Work\Debug Versions\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.write.1.tlog
