@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="33BEE9F5-84E6-46FD-A641-2A21714D7E30/f:MainForm.cs" caret="2974" fromTop="72" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="33BEE9F5-84E6-46FD-A641-2A21714D7E30/f:MainForm.cs" caret="3356" fromTop="32" />
+      <File id="33BEE9F5-84E6-46FD-A641-2A21714D7E30/f:MainForm.cs" caret="3214" fromTop="27" />
+      <File id="33BEE9F5-84E6-46FD-A641-2A21714D7E30/f:MainForm.cs" caret="2974" fromTop="21" />
+      <File id="33BEE9F5-84E6-46FD-A641-2A21714D7E30/f:MainForm.cs" caret="3863" fromTop="72" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="btnStart" priority="1" />
+      <Item value="btnStop" priority="2" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

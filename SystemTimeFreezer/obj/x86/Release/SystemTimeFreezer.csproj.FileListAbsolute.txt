@@ -1,0 +1,20 @@
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe.config
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.pdb
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.MainForm.resources
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.read.1.tlog
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.write.1.tlog
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.exe
+d:\my documents\visual studio 2010\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.pdb
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe.config
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.exe
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.pdb
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.exe
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\bin\Release\SystemTimeFreezer.pdb
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.MainForm.resources
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\SystemTimeFreezer.Properties.Resources.resources
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.read.1.tlog
+D:\My Documents\My Dropbox\Projects\SystemTimeFreezer\SystemTimeFreezer\obj\x86\Release\ResGen.write.1.tlog
