@@ -1,8 +1,4 @@
 
-down vote	
-Here's my standard .hgignore file for use with VS2008 that was originally modified from a Git ignore file:
-# Ignore file for Visual Studio 2008
-
 # use glob syntax
 syntax: glob
 
